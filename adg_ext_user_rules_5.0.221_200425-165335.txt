@@ -1,0 +1,1 @@
+||goat-v*.com##div:first-child > div.dark\:bg-custom-primary-dark:first-child > div.relative.flex.min-h-screen.flex-col:nth-child(2) > div.mx-auto.w-full.max-w-\[1500px\].flex-1.md\:flex:nth-child(3) > main.relative.flex-1.pb-4.md\:px-2:nth-child(2) > div.mx-auto.w-full.md\:max-w-5xl.md\:pt-\[23px\] > div.px-2.md\:px-0:last-child
